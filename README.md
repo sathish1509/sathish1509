@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sathish P</h1>
 <h3 align="center">🚀 Computer Science Engineering Student | Cloud & AI Enthusiast | Full-Stack & ML Developer</h3>
 
-- 🔭 I’m currently working on [Student Performance Tracker](https://github.com/sathish1509/student-performance-tracker)
 
 - 🌱 I’m currently learning **Cloud Computing (AWS) · React · Docker · Advanced Django · Machine Learning Deployment**
 
 - 👯 I’m looking to collaborate on **AI/ML projects, Cloud-based applications, and full-stack web apps**
-
-- 🤝 I’m looking for help with [Deploying ML models on cloud](https://github.com/sathish1509/Calories-burnt-prediction)
 
 - 📫 How to reach me **sathishmasi2006@gmail.com**
 
