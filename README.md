@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathish P</h1>
-<h3 align="center">🚀 CSE Student | Cloud & DevOps Enthusiast | Full-Stack & ML Developer</h3>
+<h3 align="center">🚀 CSE Student | Cloud & DevOps Enthusiast | Full-Stack & DevOps </h3>
 
 ---
 
